@@ -1,6 +1,6 @@
 {
   "name": "vf2-plus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "基于AntV/F2的vue封装",
   "main": "index.js",
   "scripts": {
