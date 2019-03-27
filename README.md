@@ -1,7 +1,5 @@
-# vf2
-基于AntV/F2的vue封装。
-
-实现原理参考了vux中的[v-chart](https://doc.vux.li/zh-CN/components/v-chart.html)，添加了对于F2最新特性的支持，重新设计了接口。
+# vf2-plus
+基于包vf2的封装。
 
 提供了多种组件：
 
@@ -386,3 +384,5 @@ const data = [
       @end="handleSelected"/>
 ```
 
+## Thanks
+vf2 https://www.npmjs.com/package/vf2
